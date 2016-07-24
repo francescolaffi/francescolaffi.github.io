@@ -12,7 +12,7 @@ description: >
   imported from wordpress to jekyll since its just an archive of old stuff,
   things are likely broken and will be unlikely fixed
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://francescolaffi.github.io" # the base hostname & protocol for your site
+url: "https://flweb.it" # the base hostname & protocol for your site
 twitter_username: francescolaffi
 github_username:  francescolaffi
 
